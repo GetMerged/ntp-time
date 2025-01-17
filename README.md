@@ -1,2 +1,2 @@
 # ntp-time
-Network Time Protocol (NTP). This tool enables accurate and reliable timekeeping for servers,
+Welcome to my project, this is related to ntp protocol for getting timing from server rather than Date.now(), just for avioding manipulation at client side.
