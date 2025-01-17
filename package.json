@@ -1,0 +1,13 @@
+{
+  "name": "ntp-time",
+  "version": "1.0.0",
+  "description": "Welcome to my project, this is related to ntp protocol for getting timing from server rather than Date.now(), just for avioding manipulation at client side.",
+  "main": "index.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,2 +1,2 @@
 # ntp-time
-Welcome to my project, this is related to ntp protocol for getting timing from server rather than Date.now(), just for avioding manipulation at client side.
+Welcome to my project, will update this ReadMe.Md
