@@ -9,7 +9,7 @@ const TEN_SECONDS_IN_MILLIS = 10_000;
 const defaultConfig = {
   port: 123,
   replyTimeout: TEN_SECONDS_IN_MILLIS,
-  server: 'pool.ntp.org'
+  server: 'time.nist.gov'
 };
 class NTPClient {
   constructor(configOrServer, port, replyTimeout) {
